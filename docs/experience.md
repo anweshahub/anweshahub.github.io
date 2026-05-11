@@ -19,7 +19,6 @@ hide:
 - Investigating biochar's impact on crop growth at both phenotypic and developmental gene expression levels
 - Studying soil microbial community shifts (genus and species level) under prolonged biochar exposure
 - Employing DFT-based computational simulations to model Extracellular Electron Transfer (EET) at biochar–microbe interfaces
-- Current GPI: 8.83
 
 </div>
 
@@ -47,14 +46,14 @@ hide:
 ### Doctor of Philosophy (PhD) — Environmental Sciences and Engineering Department
 **Indian Institute of Technology Bombay** | *2024 – ongoing*
 
-GPI: 8.83 &nbsp;|&nbsp; Thesis focus: Biochar synthesis, soil amendment, crop growth promotion, and soil microbial community dynamics
+Thesis focus: Biochar synthesis, soil amendment, crop growth promotion, and soil microbial community dynamics
 
 ---
 
-### Master of Science (M.Sc.) — Botany
+### Master of Science (M.Sc.) — Life Sciences
 **Presidency University, West Bengal** | *2021*
 
-CGPA: 8.9/10 (83.4%) &nbsp;|&nbsp; First Class
+First Class 
 
 *Dissertation:* Promoter analysis of osmotic stress responsive genes in representative species from Brassicaceae
 *(Supervisor: Dr. Malay Das, Laboratory of Plant Molecular Biology)*
@@ -64,39 +63,39 @@ CGPA: 8.9/10 (83.4%) &nbsp;|&nbsp; First Class
 ### Bachelor of Science (B.Sc. Honours) — Botany
 **Shri Shikshayatan College, University of Calcutta, West Bengal** | *2019*
 
-66.125% &nbsp;|&nbsp; First Class &nbsp;|&nbsp; Medal for First Class in Botany Honours
+First Class &nbsp;|&nbsp; Medal for First Class in Botany Honours
 
 ---
 
 ### Class XII
 **St. John's Diocesan Girls' Higher Secondary School, West Bengal** | *2016*
 
-77.80% &nbsp;|&nbsp; First Class
+First Class
 
 ---
 
 ### Class X
 **Shri Shikshayatan School, West Bengal** | *2014*
 
-87.14% &nbsp;|&nbsp; First Class
+First Class
 
 ---
 
 ## National Examinations Qualified
 
-| Examination | Year | Score / Rank |
+| Examination | Year | Details |
 |---|---|---|
-| GATE-XL | 2024 | Score: 636/1000 &nbsp;·&nbsp; Rank: 410 |
+| GATE-XL | 2024 | Qualified |
 | 25th State Eligibility Test (SET) | — | West Bengal College Service Commission |
-| GATE-XL | 2021 | Score: 394/1000 &nbsp;·&nbsp; Rank: 2783 |
-| CSIR-NTA-NET | June 2020 | Qualified for Lectureship / Assistant Professorship &nbsp;·&nbsp; Rank: 60 |
+| GATE-XL | 2021 | Qualified |
+| CSIR-NTA-NET | June 2020 | Qualified for Lectureship / Assistant Professorship |
 
 ---
 
 ## Awards & Recognitions
 
 - **Best Oral Presentation Award** — International Conference on Energy and Resource Recovery for a Sustainable Circular Economy, 2026 (IIT Madras)
-- **Best Poster — 2nd Position** — State Level Seminar on Conservation of Biodiversity: Impact, Challenges and Management, Shri Shikshayatan College, 2019
+- **Poster Presentation Award** — State Level Seminar on Conservation of Biodiversity: Impact, Challenges and Management, Shri Shikshayatan College, 2019
 - **Certificate of Oral Presentation** — State Level Workshop on Role of Youth in Solid Waste Management, Shri Shikshayatan College in collaboration with West Bengal Pollution Control Board, 2017
 - **Certificate of Merit** for First Class in Botany Honours — Shri Shikshayatan College, 2019
 - **Certificate of Excellence in Academic Pursuits** — Shri Shikshayatan College, 2019
