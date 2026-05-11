@@ -44,7 +44,7 @@ hide:
 
 ## Education
 
-### Doctor of Philosophy (PhD) — Biosciences & Bioengineering
+### Doctor of Philosophy (PhD) — Environmental Sciences and Engineering Department
 **Indian Institute of Technology Bombay** | *2024 – ongoing*
 
 GPI: 8.83 &nbsp;|&nbsp; Thesis focus: Biochar synthesis, soil amendment, crop growth promotion, and soil microbial community dynamics
