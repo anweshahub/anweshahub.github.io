@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdocs build *)",
+      "PowerShell(Start-Process \"http://127.0.0.1:8000\")",
+      "PowerShell(Start-Process \"http://127.0.0.1:8000\" -Force)"
+    ]
+  }
+}
